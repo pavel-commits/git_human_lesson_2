@@ -4,3 +4,29 @@ Commits that exist in master but don’t exist in origin/demo:
 «Merge remote-tracking branch 'origin/hat'»
 «Merge remote-tracking branch 'origin/buttons' into boots_buttons»
 «Merge remote-tracking branch 'origin/boots' into boots_buttons»
+
+
+master: 10
+
+Добавление текстового hometask
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
+
+
+boots_buttons: 7
+
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+init
+
